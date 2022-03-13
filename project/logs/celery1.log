@@ -1,0 +1,165 @@
+[2022-03-13 02:18:36,646: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-03-13 02:18:36,649: INFO/MainProcess] mingle: searching for neighbors
+[2022-03-13 02:18:37,663: INFO/MainProcess] mingle: all alone
+[2022-03-13 02:18:37,677: INFO/MainProcess] celery@07f2724c084c ready.
+[2022-03-13 02:18:42,278: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-03-13 02:20:12,730: INFO/MainProcess] missed heartbeat from celery@2b9b35f10bad
+[2022-03-13 02:20:12,731: INFO/MainProcess] missed heartbeat from celery@4e9c2ad7f27b
+[2022-03-13 02:22:08,605: INFO/MainProcess] Task create_task[b9e797a-8838-4f2d-a738-e87f0ec9df8a] received
+[2022-03-13 02:22:08,611: WARNING/MainProcess] Substantial drift from celery@2b9b35f10bad may mean clocks are out of sync.  Current drift is 25 seconds.  [orig: 2022-03-13 02:22:08.611208 recv: 2022-03-13 02:21:43.976176]
+[2022-03-13 02:22:08,611: WARNING/MainProcess] Substantial drift from celery@4e9c2ad7f27b may mean clocks are out of sync.  Current drift is 22 seconds.  [orig: 2022-03-13 02:22:08.611851 recv: 2022-03-13 02:21:46.419328]
+[2022-03-13 02:23:09,185: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-03-13 02:23:09,191: INFO/MainProcess] mingle: searching for neighbors
+[2022-03-13 02:23:10,219: INFO/MainProcess] mingle: all alone
+[2022-03-13 02:23:10,230: INFO/MainProcess] celery@944199f0301a ready.
+[2022-03-13 02:23:15,025: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-03-13 02:24:47,583: INFO/MainProcess] Task create_task[4de0635f-f883-4aad-b25c-144c2fb3cd1d] received
+[2022-03-13 02:24:48,101: INFO/MainProcess] Task create_task[824ddb6e-7276-4b36-860b-6c973f1b8c1f] received
+[2022-03-13 02:24:48,584: INFO/MainProcess] Task create_task[9bb5b383-7927-4aed-bd77-8ed99ff8b7a0] received
+[2022-03-13 02:24:49,058: INFO/MainProcess] Task create_task[1d07b8d7-0582-40b6-b9b4-94d9cb22d41f] received
+[2022-03-13 02:24:49,532: INFO/MainProcess] Task create_task[b49b0156-3ef7-4f55-b61e-56ac8b55de5a] received
+[2022-03-13 02:24:50,052: INFO/MainProcess] Task create_task[83861ca1-600e-407a-9f78-280bebbb2bc3] received
+[2022-03-13 02:24:50,543: INFO/MainProcess] Task create_task[d996ade7-637c-47a5-91a5-1061ee05e7fc] received
+[2022-03-13 02:24:51,042: INFO/MainProcess] Task create_task[9c3e8339-c144-4c0b-b929-306def320e4b] received
+[2022-03-13 02:24:51,523: INFO/MainProcess] Task create_task[cd95c8bb-eaee-4bab-8256-78c4c8d29298] received
+[2022-03-13 02:24:52,245: INFO/MainProcess] Task create_task[9e8f3796-fd8c-42d8-a020-3c24fc0c80f1] received
+[2022-03-13 02:24:52,779: INFO/MainProcess] Task create_task[4c71b9ca-168d-4cbe-b2ce-4e82d83dc785] received
+[2022-03-13 02:24:53,290: INFO/MainProcess] Task create_task[1f6e573f-2c8b-459c-9ea2-897cf8534e7d] received
+[2022-03-13 02:24:57,599: INFO/ForkPoolWorker-3] Task create_task[4de0635f-f883-4aad-b25c-144c2fb3cd1d] succeeded in 10.012044572002196s: True
+[2022-03-13 02:24:58,117: INFO/ForkPoolWorker-1] Task create_task[824ddb6e-7276-4b36-860b-6c973f1b8c1f] succeeded in 10.012855756001954s: True
+[2022-03-13 02:24:58,601: INFO/ForkPoolWorker-2] Task create_task[9bb5b383-7927-4aed-bd77-8ed99ff8b7a0] succeeded in 10.01309879299879s: True
+[2022-03-13 02:24:59,076: INFO/ForkPoolWorker-4] Task create_task[1d07b8d7-0582-40b6-b9b4-94d9cb22d41f] succeeded in 10.012572358999023s: True
+[2022-03-13 02:25:00,681: INFO/MainProcess] Task create_task[d194e284-ecab-4ef0-b738-6ca58428109d] received
+[2022-03-13 02:25:01,218: INFO/MainProcess] Task create_task[f52fad9d-2b6b-4b84-a0ad-ab9985eed280] received
+[2022-03-13 02:25:01,912: INFO/MainProcess] Task create_task[369c701e-402e-48ac-9f8b-b748f5e9497e] received
+[2022-03-13 02:25:02,696: INFO/MainProcess] Task create_task[3387f6ba-c57c-42c5-a12f-f2710101ab62] received
+[2022-03-13 02:25:03,292: INFO/MainProcess] Task create_task[de89c819-f450-41ef-a2ee-d82d4e2514ed] received
+[2022-03-13 02:25:03,976: INFO/MainProcess] Task create_task[a9a4a374-9585-469e-834c-2148194522c8] received
+[2022-03-13 02:25:04,578: INFO/MainProcess] Task create_task[5c3ee7d7-81c5-45a0-8247-82348a6d0014] received
+[2022-03-13 02:25:07,610: INFO/ForkPoolWorker-3] Task create_task[b49b0156-3ef7-4f55-b61e-56ac8b55de5a] succeeded in 10.00942003399905s: True
+[2022-03-13 02:25:08,125: INFO/ForkPoolWorker-1] Task create_task[83861ca1-600e-407a-9f78-280bebbb2bc3] succeeded in 10.005905246998736s: True
+[2022-03-13 02:25:08,613: INFO/ForkPoolWorker-2] Task create_task[d996ade7-637c-47a5-91a5-1061ee05e7fc] succeeded in 10.010698627000238s: True
+[2022-03-13 02:25:09,089: INFO/ForkPoolWorker-4] Task create_task[9c3e8339-c144-4c0b-b929-306def320e4b] succeeded in 10.010810796000442s: True
+[2022-03-13 02:25:09,456: INFO/MainProcess] Task create_task[7362397a-ad1b-4d05-b624-bfcc8b191108] received
+[2022-03-13 02:25:10,137: INFO/MainProcess] Task create_task[c73aae43-96db-4173-a3ca-2e34f0f0ee2e] received
+[2022-03-13 02:25:10,939: INFO/MainProcess] Task create_task[cf8c81e0-0333-4b56-8bb7-57c96b3535d0] received
+[2022-03-13 02:25:11,691: INFO/MainProcess] Task create_task[9fb40bc2-6a44-451a-8a98-a76c54ff54dc] received
+[2022-03-13 02:25:12,344: INFO/MainProcess] Task create_task[484d33cc-eac6-4eba-988a-03c7a5d2ea1e] received
+[2022-03-13 02:25:13,090: INFO/MainProcess] Task create_task[c0eb7958-2645-4e5e-955d-39c65e1cd795] received
+[2022-03-13 02:25:13,730: INFO/MainProcess] Task create_task[bc0b4cbe-e40d-40fd-b4d0-95bebf2342f6] received
+[2022-03-13 02:25:14,635: INFO/MainProcess] Task create_task[373b1768-1543-4f9c-adfb-d7dfb8f99c45] received
+[2022-03-13 02:25:15,329: INFO/MainProcess] Task create_task[7ffc99b8-2597-47e7-a377-ab53b69d0577] received
+[2022-03-13 02:25:17,623: INFO/ForkPoolWorker-3] Task create_task[cd95c8bb-eaee-4bab-8256-78c4c8d29298] succeeded in 10.011444076000771s: True
+[2022-03-13 02:25:18,137: INFO/ForkPoolWorker-1] Task create_task[9e8f3796-fd8c-42d8-a020-3c24fc0c80f1] succeeded in 10.010783198998979s: True
+[2022-03-13 02:25:18,626: INFO/ForkPoolWorker-2] Task create_task[4c71b9ca-168d-4cbe-b2ce-4e82d83dc785] succeeded in 10.009650224001234s: True
+[2022-03-13 02:25:19,101: INFO/ForkPoolWorker-4] Task create_task[1f6e573f-2c8b-459c-9ea2-897cf8534e7d] succeeded in 10.00983870300115s: True
+[2022-03-13 02:25:27,638: INFO/ForkPoolWorker-3] Task create_task[d194e284-ecab-4ef0-b738-6ca58428109d] succeeded in 10.011126273999253s: True
+[2022-03-13 02:26:58,146: INFO/MainProcess] Task create_task[0beb748f-f416-41bd-ae21-b617113525a8] received
+[2022-03-13 02:26:58,149: INFO/MainProcess] missed heartbeat from celery@1b55e16f7dd7
+[2022-03-13 02:26:58,149: INFO/MainProcess] missed heartbeat from celery@96e24cb12f24
+[2022-03-13 02:26:58,149: WARNING/MainProcess] Substantial drift from celery@96e24cb12f24 may mean clocks are out of sync.  Current drift is 100 seconds.  [orig: 2022-03-13 02:26:58.149754 recv: 2022-03-13 02:25:18.175647]
+[2022-03-13 02:27:08,158: INFO/ForkPoolWorker-1] Task create_task[f52fad9d-2b6b-4b84-a0ad-ab9985eed280] succeeded in 10.01154920100089s: True
+[2022-03-13 02:27:08,189: INFO/ForkPoolWorker-4] Task create_task[de89c819-f450-41ef-a2ee-d82d4e2514ed] succeeded in 10.031600900998455s: True
+[2022-03-13 02:27:18,179: INFO/ForkPoolWorker-2] Task create_task[3387f6ba-c57c-42c5-a12f-f2710101ab62] succeeded in 20.021790347000206s: True
+[2022-03-13 02:27:28,185: INFO/ForkPoolWorker-3] Task create_task[369c701e-402e-48ac-9f8b-b748f5e9497e] succeeded in 30.027671341002133s: True
+[2022-03-13 02:29:50,614: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-03-13 02:29:50,619: INFO/MainProcess] mingle: searching for neighbors
+[2022-03-13 02:29:51,634: INFO/MainProcess] mingle: all alone
+[2022-03-13 02:29:51,648: INFO/MainProcess] celery@74dc17a52bda ready.
+[2022-03-13 02:30:01,122: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-03-13 02:33:42,333: INFO/MainProcess] Task create_task[23062c51-6a06-4a26-9b4f-220678823a1c] received
+[2022-03-13 02:33:42,770: INFO/MainProcess] Task create_task[2e3fd21d-bee3-4ea2-9e99-0a6e94c8ec18] received
+[2022-03-13 02:33:43,225: INFO/MainProcess] Task create_task[b2ac3561-6cbd-4ef9-98b1-63d9226a739a] received
+[2022-03-13 02:33:43,701: INFO/MainProcess] Task create_task[95ec9e49-c812-4528-a7d6-fc881ceaeb95] received
+[2022-03-13 02:33:44,176: INFO/MainProcess] Task create_task[c972f1d5-23ca-4365-9194-0d97b9835a2b] received
+[2022-03-13 02:33:44,636: INFO/MainProcess] Task create_task[05b42173-bf84-417a-8da3-16d90e7aec6f] received
+[2022-03-13 02:33:45,096: INFO/MainProcess] Task create_task[c48f9e22-ef14-4aee-86f9-55a2a3f9d794] received
+[2022-03-13 02:33:45,576: INFO/MainProcess] Task create_task[e0706aa2-66bb-4af2-8b7c-8beda79168ab] received
+[2022-03-13 02:33:46,085: INFO/MainProcess] Task create_task[bb7d71e4-81bd-4d04-bbc4-6b96db9ae98e] received
+[2022-03-13 02:33:46,582: INFO/MainProcess] Task create_task[8c8188fd-d9e6-4438-a9ec-3d42fc6455bc] received
+[2022-03-13 02:33:47,078: INFO/MainProcess] Task create_task[8148e33b-c57f-453d-8d97-f57e1ecbe35b] received
+[2022-03-13 02:33:47,596: INFO/MainProcess] Task create_task[910c80d7-4604-472a-9171-b5f01a2dc0b9] received
+[2022-03-13 02:33:48,077: INFO/MainProcess] Task create_task[12fff73d-17c7-4bbe-8daa-fdefcdd498f8] received
+[2022-03-13 02:33:48,585: INFO/MainProcess] Task create_task[b29ac0ef-caae-4c4b-861c-32facae8972d] received
+[2022-03-13 02:33:49,033: INFO/MainProcess] Task create_task[6649be03-1a47-47d0-bc52-6d0b2b592479] received
+[2022-03-13 02:33:49,675: INFO/MainProcess] Task create_task[f7457742-5a9f-4813-891b-96a4c1eb6fbc] received
+[2022-03-13 02:33:50,211: INFO/MainProcess] Task create_task[7b21a021-e266-4f6b-9586-d1cf26bfbde9] received
+[2022-03-13 02:33:52,347: INFO/ForkPoolWorker-3] Task create_task[23062c51-6a06-4a26-9b4f-220678823a1c] succeeded in 10.009255831999326s: True
+[2022-03-13 02:33:52,787: INFO/ForkPoolWorker-1] Task create_task[2e3fd21d-bee3-4ea2-9e99-0a6e94c8ec18] succeeded in 10.013065912000457s: True
+[2022-03-13 02:33:53,242: INFO/ForkPoolWorker-2] Task create_task[b2ac3561-6cbd-4ef9-98b1-63d9226a739a] succeeded in 10.014512400000967s: True
+[2022-03-13 02:33:53,610: INFO/MainProcess] Task create_task[6664a77b-3afd-473d-88cc-80557c9ddba8] received
+[2022-03-13 02:33:53,717: INFO/ForkPoolWorker-4] Task create_task[95ec9e49-c812-4528-a7d6-fc881ceaeb95] succeeded in 10.0126296060007s: True
+[2022-03-13 02:33:54,048: INFO/MainProcess] Task create_task[4eeebd1c-b35e-4d3b-ae2c-c6772e8b586b] received
+[2022-03-13 02:33:54,904: INFO/MainProcess] Task create_task[997a46db-7a89-4cc3-b159-57b0ae1a423d] received
+[2022-03-13 02:33:55,579: INFO/MainProcess] Task create_task[e8bcd9c1-8ad7-4654-b35b-78066e555aaf] received
+[2022-03-13 02:33:56,203: INFO/MainProcess] Task create_task[0943598c-c676-4c9c-bcc6-b22be928cd9c] received
+[2022-03-13 02:33:56,689: INFO/MainProcess] Task create_task[223a19ae-e5eb-4aba-a117-147c4c7b89d0] received
+[2022-03-13 02:33:56,900: INFO/MainProcess] Task create_task[c7b4c508-d92f-4ea9-a623-8934e5e20f9d] received
+[2022-03-13 02:34:02,358: INFO/ForkPoolWorker-3] Task create_task[c972f1d5-23ca-4365-9194-0d97b9835a2b] succeeded in 10.008214197998313s: True
+[2022-03-13 02:34:02,797: INFO/ForkPoolWorker-1] Task create_task[05b42173-bf84-417a-8da3-16d90e7aec6f] succeeded in 10.00869074500224s: True
+[2022-03-13 02:34:03,255: INFO/ForkPoolWorker-2] Task create_task[c48f9e22-ef14-4aee-86f9-55a2a3f9d794] succeeded in 10.010115719000169s: True
+[2022-03-13 02:34:03,729: INFO/ForkPoolWorker-4] Task create_task[e0706aa2-66bb-4af2-8b7c-8beda79168ab] succeeded in 10.01082186900021s: True
+[2022-03-13 02:34:12,370: INFO/ForkPoolWorker-3] Task create_task[bb7d71e4-81bd-4d04-bbc4-6b96db9ae98e] succeeded in 10.011243336000916s: True
+[2022-03-13 02:35:42,806: INFO/MainProcess] Task create_task[f14dbf5e-9ee2-47ec-bc5a-19eb95b49a0c] received
+[2022-03-13 02:35:42,810: INFO/MainProcess] missed heartbeat from celery@11b0f74182dc
+[2022-03-13 02:35:42,810: INFO/MainProcess] missed heartbeat from celery@ab0f82a4ad49
+[2022-03-13 02:35:52,817: INFO/ForkPoolWorker-1] Task create_task[8c8188fd-d9e6-4438-a9ec-3d42fc6455bc] succeeded in 10.010010417998274s: True
+[2022-03-13 02:35:52,838: INFO/ForkPoolWorker-2] Task create_task[910c80d7-4604-472a-9171-b5f01a2dc0b9] succeeded in 10.011349540000083s: True
+[2022-03-13 02:35:52,839: INFO/ForkPoolWorker-3] Task create_task[8148e33b-c57f-453d-8d97-f57e1ecbe35b] succeeded in 10.013420772000245s: True
+[2022-03-13 02:35:52,840: INFO/ForkPoolWorker-4] Task create_task[12fff73d-17c7-4bbe-8daa-fdefcdd498f8] succeeded in 10.013666671002284s: True
+[2022-03-13 02:38:51,074: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-03-13 02:38:51,077: INFO/MainProcess] mingle: searching for neighbors
+[2022-03-13 02:38:52,087: INFO/MainProcess] mingle: all alone
+[2022-03-13 02:38:52,098: INFO/MainProcess] celery@cc493c6d8151 ready.
+[2022-03-13 02:39:06,672: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-03-13 02:43:04,562: INFO/MainProcess] Task create_task[0924286a-ef12-4f57-8f5d-d8768d143e60] received
+[2022-03-13 02:43:04,888: INFO/MainProcess] Task create_task[587666d8-ce89-4afb-a12c-dce858dd95e3] received
+[2022-03-13 02:43:05,360: INFO/MainProcess] Task create_task[a4740c16-27e4-44ca-b893-666facaa83b5] received
+[2022-03-13 02:43:05,925: INFO/MainProcess] Task create_task[72c743d3-8308-4832-a956-7f1aa6425fb8] received
+[2022-03-13 02:43:06,496: INFO/MainProcess] Task create_task[e0c6825f-e78d-4eca-b2ac-3388b50eed3e] received
+[2022-03-13 02:43:07,078: INFO/MainProcess] Task create_task[dae3da34-9be2-4e33-a8a6-da6167b7e5e7] received
+[2022-03-13 02:43:07,583: INFO/MainProcess] Task create_task[d52fb65d-f03f-427d-a332-10873d8afdca] received
+[2022-03-13 02:43:08,145: INFO/MainProcess] Task create_task[e2f289ed-f47f-4981-9da5-803f886accda] received
+[2022-03-13 02:43:08,713: INFO/MainProcess] Task create_task[35ef1094-8fe6-4a03-8909-6b0331e506de] received
+[2022-03-13 02:43:09,299: INFO/MainProcess] Task create_task[064f6086-d080-48d2-af03-57ff6a2524e1] received
+[2022-03-13 02:43:12,226: INFO/MainProcess] Task create_task[87515d69-46fa-4563-b6e1-94297dc1928e] received
+[2022-03-13 02:43:12,941: INFO/MainProcess] Task create_task[e3b5af0e-91fd-4346-9166-f3e548dad870] received
+[2022-03-13 02:43:15,627: INFO/MainProcess] Task create_task[39ad89b8-bc96-4a66-934a-31e76fe79ceb] received
+[2022-03-13 02:43:16,103: INFO/MainProcess] Task create_task[12be7018-1911-49f7-a792-3cc16466f0ee] received
+[2022-03-13 02:43:16,541: INFO/MainProcess] Task create_task[9aacedbf-8e32-4332-82ef-df0d84fa83bd] received
+[2022-03-13 02:43:17,020: INFO/MainProcess] Task create_task[9a00721e-2485-45e8-9c26-5a07abe1e42a] received
+[2022-03-13 02:43:17,548: INFO/MainProcess] Task create_task[b4f4e876-c389-4b2a-970f-15d1cc3f6ee9] received
+[2022-03-13 02:43:18,150: INFO/MainProcess] Task create_task[5979b2a8-68d4-4993-b31d-6c0493a032a7] received
+[2022-03-13 02:43:18,703: INFO/MainProcess] Task create_task[0e33c251-bcb2-48dd-a347-ed6bb01d1c7e] received
+[2022-03-13 02:43:19,294: INFO/MainProcess] Task create_task[a86fe6de-8a27-4a78-9bc4-27fe0a87f453] received
+[2022-03-13 02:43:34,599: INFO/ForkPoolWorker-3] Task create_task[0924286a-ef12-4f57-8f5d-d8768d143e60] succeeded in 30.032535738999286s: True
+[2022-03-13 02:43:34,720: INFO/MainProcess] Task create_task[357d6c83-cde4-4580-9a90-0e4f7338fbec] received
+[2022-03-13 02:43:34,924: INFO/ForkPoolWorker-1] Task create_task[587666d8-ce89-4afb-a12c-dce858dd95e3] succeeded in 30.03277875599815s: True
+[2022-03-13 02:43:35,395: INFO/ForkPoolWorker-4] Task create_task[a4740c16-27e4-44ca-b893-666facaa83b5] succeeded in 30.031427140998858s: True
+[2022-03-13 02:43:35,967: INFO/ForkPoolWorker-2] Task create_task[72c743d3-8308-4832-a956-7f1aa6425fb8] succeeded in 30.031931240999256s: True
+[2022-03-13 02:44:04,393: INFO/MainProcess] Task create_task[cddf6d68-c297-40e0-a97d-26dfd372728b] received
+[2022-03-13 02:44:04,394: WARNING/MainProcess] Substantial drift from celery@c92844574118 may mean clocks are out of sync.  Current drift is 29 seconds.  [orig: 2022-03-13 02:44:04.394200 recv: 2022-03-13 02:43:35.047159]
+[2022-03-13 02:44:04,401: INFO/MainProcess] missed heartbeat from celery@899e4d13ecf4
+[2022-03-13 02:44:04,630: INFO/ForkPoolWorker-3] Task create_task[e0c6825f-e78d-4eca-b2ac-3388b50eed3e] succeeded in 30.02830062800058s: True
+[2022-03-13 02:44:04,955: INFO/ForkPoolWorker-1] Task create_task[dae3da34-9be2-4e33-a8a6-da6167b7e5e7] succeeded in 30.029521816999477s: True
+[2022-03-13 02:44:34,422: INFO/ForkPoolWorker-2] Task create_task[e2f289ed-f47f-4981-9da5-803f886accda] succeeded in 30.007428008997522s: True
+[2022-03-13 02:44:34,446: INFO/ForkPoolWorker-4] Task create_task[d52fb65d-f03f-427d-a332-10873d8afdca] succeeded in 30.031451244998607s: True
+[2022-03-13 02:44:34,665: INFO/ForkPoolWorker-3] Task create_task[35ef1094-8fe6-4a03-8909-6b0331e506de] succeeded in 30.033066954998503s: True
+[2022-03-13 02:44:34,966: INFO/ForkPoolWorker-1] Task create_task[064f6086-d080-48d2-af03-57ff6a2524e1] succeeded in 30.008232970998506s: True
+[2022-03-13 02:44:44,682: INFO/ForkPoolWorker-3] Task create_task[39ad89b8-bc96-4a66-934a-31e76fe79ceb] succeeded in 10.014443266001763s: True
+[2022-03-13 02:44:44,974: INFO/ForkPoolWorker-1] Task create_task[12be7018-1911-49f7-a792-3cc16466f0ee] succeeded in 10.00644121300138s: True
+[2022-03-13 02:44:54,696: INFO/ForkPoolWorker-3] Task create_task[9aacedbf-8e32-4332-82ef-df0d84fa83bd] succeeded in 10.01239614899896s: True
+[2022-03-13 02:44:54,985: INFO/ForkPoolWorker-1] Task create_task[9a00721e-2485-45e8-9c26-5a07abe1e42a] succeeded in 10.0096972249994s: True
+[2022-03-13 02:45:04,455: INFO/ForkPoolWorker-2] Task create_task[87515d69-46fa-4563-b6e1-94297dc1928e] succeeded in 30.031389182000567s: True
+[2022-03-13 02:45:04,456: INFO/ForkPoolWorker-4] Task create_task[e3b5af0e-91fd-4346-9166-f3e548dad870] succeeded in 30.0081057790012s: True
+[2022-03-13 02:45:04,714: INFO/ForkPoolWorker-3] Task create_task[b4f4e876-c389-4b2a-970f-15d1cc3f6ee9] succeeded in 10.016972077999526s: True
+[2022-03-13 02:45:04,998: INFO/ForkPoolWorker-1] Task create_task[5979b2a8-68d4-4993-b31d-6c0493a032a7] succeeded in 10.011175332998391s: True
+[2022-03-13 02:45:14,465: INFO/ForkPoolWorker-4] Task create_task[0e33c251-bcb2-48dd-a347-ed6bb01d1c7e] succeeded in 10.007117410998035s: True
+[2022-03-13 02:45:14,469: INFO/ForkPoolWorker-2] Task create_task[a86fe6de-8a27-4a78-9bc4-27fe0a87f453] succeeded in 10.008729601999221s: True
+[2022-03-13 02:45:14,726: INFO/ForkPoolWorker-3] Task create_task[357d6c83-cde4-4580-9a90-0e4f7338fbec] succeeded in 10.010256067998853s: True
+[2022-03-13 02:45:15,008: INFO/ForkPoolWorker-1] Task create_task[cddf6d68-c297-40e0-a97d-26dfd372728b] succeeded in 10.00524138900073s: True
+[2022-03-13 03:44:26,722: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-03-13 03:44:26,726: INFO/MainProcess] mingle: searching for neighbors
+[2022-03-13 03:44:27,737: INFO/MainProcess] mingle: all alone
+[2022-03-13 03:44:27,746: INFO/MainProcess] celery@38ca5b17fd73 ready.
+[2022-03-13 03:44:37,050: INFO/MainProcess] Events of group {task} enabled by remote.

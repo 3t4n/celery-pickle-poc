@@ -6,6 +6,11 @@ from flask import render_template, Blueprint, jsonify, request
 from project.server.tasks import create_task
 
 
+class A():
+    def test():
+        return 1
+
+
 main_blueprint = Blueprint("main", __name__,)
 
 
@@ -18,7 +23,7 @@ def home():
 def run_task():
     content = request.json
     task_type = content["type"]
-    task = create_task.delay(int(task_type))
+    task = create_task.delay(int(task_type), obj=A())
     return jsonify({"task_id": task.id}), 202
 
 
